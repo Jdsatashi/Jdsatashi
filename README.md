@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vu Duy Trinh</h1>
-<h3 align="center">A Backend Developer more one year experience in Vietnam</h3>
+<h3 align="center">A Backend Developer in Vietnam</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
